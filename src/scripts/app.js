@@ -50,9 +50,9 @@ const logo = document.getElementById('logo');
         }
         function meAnimation() {
             setInterval(function () {
-                setTimeout(function () { me.style.backgroundImage = "url('images/meFramesForAnimation/meFrame1.png')"; }, 0);
-                setTimeout(function () { me.style.backgroundImage = "url('images/meFramesForAnimation/meFrame2.png')"; }, 100);
-                setTimeout(function () { me.style.backgroundImage = "url('images/meFramesForAnimation/meFrame3.png')"; }, 200);
+                setTimeout(function () { me.style.backgroundImage = "url('https://raw.githubusercontent.com/jsoneclick/git-jsoneclick-personal-portfolio/main/src/images/meFramesForAnimation/meFrame1.png?token=GHSAT0AAAAAACFMCRVKLU5XDPNPVF3JHJGSZGTO6HA')"; }, 0);
+                setTimeout(function () { me.style.backgroundImage = "url('https://raw.githubusercontent.com/jsoneclick/git-jsoneclick-personal-portfolio/main/src/images/meFramesForAnimation/meFrame2.png?token=GHSAT0AAAAAACFMCRVK5IRFRLNCVFHPR5QGZGTO6IA')"; }, 100);
+                setTimeout(function () { me.style.backgroundImage = "url('https://raw.githubusercontent.com/jsoneclick/git-jsoneclick-personal-portfolio/main/src/images/meFramesForAnimation/meFrame3.png?token=GHSAT0AAAAAACFMCRVLDCOAR4JKFHZBBAG4ZGTO6JA')"; }, 200);
             }, 300)
 
         }
